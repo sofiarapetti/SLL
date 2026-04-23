@@ -1,4 +1,4 @@
-# SLL
+# SSL
 sintaxis y semantica de los lenguajes
 curso = K2052
 año = 2026
